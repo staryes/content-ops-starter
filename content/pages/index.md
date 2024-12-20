@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Take your time back in elegant ways
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
@@ -405,8 +405,8 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          "A designer knows he has achieved perfection not when there is nothing
+          left to add, but when there is nothing left to take away."
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -493,8 +493,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          "A designer knows he has achieved perfection not when there is nothing
+          left to add, but when there is nothing left to take away."
         tagline: Testimonial 4
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -552,7 +552,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          "Quote from some important person goes right here. I love using Netlify Create."
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
